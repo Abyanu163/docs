@@ -1,10 +1,11 @@
 site_name: My Documentations, Our Documentations
-author: Abyanu163
 copyright: |
   Documentation under Creative Commons version 4, otherwise noted. Indonesia version.
-repo_name: Abyanu163/docs
+
+repo_url: https://github.com/Abyanu163/docs
 edit_uri: edit/Nahida/docs
 view_uri: blob/Nahida/docs
+
 extra_css:
   - "-nahida/-additional.css"
 
@@ -28,5 +29,32 @@ theme:
     - content.code.copy
     - content.action.view
   palette:
-    primary: black
-    accent: teal
+    - scheme: default
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+        primary: black
+        accent: blue
+    - scheme: slate
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+        primary: black
+        accent: teal
+
+markdown_extensions:
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - admonition
+  - pymdownx.arithmatex:
+      generic: true
+  - footnotes
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.mark
+  - attr_list
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
