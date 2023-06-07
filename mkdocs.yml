@@ -4,9 +4,9 @@ copyright: |
   Documentation under Creative Commons version 4, otherwise noted. Indonesia version.
 repo_url: https://github.com/Abyanu163/docs
 edit_uri: edit/Nahida/docs
+view_uri: blob/Nahida/docs
 extra_css:
-  - "-nahida/-addtional.css"
-  - stylesheets/extra.css
+  - "-nahida/-additional.css"
 
 theme: 
   name: material
@@ -33,7 +33,6 @@ theme:
         icon: material/lightbulb
         name: "Swicth to monitor background"
       primary: black
-      accent: cyan
     - scheme: slate
       toggle:
         icon: material/lightbulb-outline
