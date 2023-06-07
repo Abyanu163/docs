@@ -2,7 +2,7 @@ site_name: My Documentations, Our Documentations
 author: Abyanu163
 copyright: |
   Documentation under Creative Commons version 4, otherwise noted. Indonesia version.
-repo_url: Abyanu163/docs
+repo_name: Abyanu163/docs
 edit_uri: edit/Nahida/docs
 view_uri: blob/Nahida/docs
 extra_css:
@@ -26,7 +26,7 @@ theme:
     - content.tabs.link
     - content.code.annotation
     - content.code.copy
-    - content.action.edit
+    - content.action.view
   palette:
     primary: black
     accent: teal
