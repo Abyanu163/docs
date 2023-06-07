@@ -2,21 +2,14 @@ site_name: My Documentations, Our Documentations
 copyright: |
   Documentation under Creative Commons version 4, otherwise noted. Indonesia version.
 
-repo_url: https://github.com/Abyanu163/docs
-edit_uri: edit/Nahida/docs
-view_uri: blob/Nahida/docs
-
 extra_css:
   - "-nahida/-additional.css"
 
 theme: 
   name: material
+  logo: material/book-open-outline
   language: id
-  icon:
-    repo: fontawesome/solid/trash
-    edit: material/file-document-edit-outline
-    view: material/file-document-multiple-outline
-  font: false # Recomended in Chinese block Google
+  font: false # Recommended in Chinese block Google
   features:
     - navigation.tabs
     - navigation.sections
@@ -27,20 +20,21 @@ theme:
     - content.tabs.link
     - content.code.annotation
     - content.code.copy
-    - content.action.view
   palette:
-    - scheme: default
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
       toggle:
         icon: material/brightness-7
         name: Switch to dark mode
-        primary: black
-        accent: blue
-    - scheme: slate
+      primary: teal
+      accent: blue
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
       toggle:
         icon: material/brightness-4
         name: Switch to light mode
-        primary: black
-        accent: teal
+      primary: cyan
+      accent: light blue
 
 markdown_extensions:
   - pymdownx.highlight:
