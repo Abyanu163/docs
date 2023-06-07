@@ -5,7 +5,8 @@ copyright: |
 repo_url: https://github.com/Abyanu163/docs
 edit_uri: edit/Nahida/docs
 extra_css:
-  - -nahida/-addtional.css
+  - "-nahida/-addtional.css"
+  - stylesheets/extra.css
 
 theme: 
   name: material
