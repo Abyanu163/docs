@@ -2,7 +2,7 @@ site_name: My Documentations, Our Documentations
 author: Abyanu163
 copyright: |
   Documentation under Creative Commons version 4, otherwise noted. Indonesia version.
-repo_url: https://github.com/Abyanu163/docs
+repo_url: Abyanu163/docs
 edit_uri: edit/Nahida/docs
 view_uri: blob/Nahida/docs
 extra_css:
@@ -28,13 +28,5 @@ theme:
     - content.code.copy
     - content.action.edit
   palette:
-    - scheme: default
-      toggle: 
-        icon: material/lightbulb
-        name: "Swicth to monitor background"
-      primary: black
-    - scheme: slate
-      toggle:
-        icon: material/lightbulb-outline
-        name: "Switch to paper background"
-      primary: white
+    primary: black
+    accent: teal
