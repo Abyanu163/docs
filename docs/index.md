@@ -16,9 +16,6 @@ ciri khas Ma'had Al Zaytun:
 Sekilas saja sudah bisa bahasa Indonesia "sangat fleksibel"
 
 Ada lagi yang biasanya di Genshin Impact:
-<img src="https://rare-gallery.com/mocahbig/1328650-Paimon-Genshin-Impact-Aether-Genshin-ImpactGenshin.png" alt="Paimon bantu Aether"/>
-Sumber gambar: melalui Rare Gallery (belum ada info yang jelas)
-
 > Macam apa ini?
 >
 > _Paimon (Genshin Impact)_
@@ -28,7 +25,14 @@ komunikasi.
 
 ## Ini adalah untuk dasar
 ...
-> Herta sedang sibuk. Coba lain kali.\
+> Trailblazer melihat Herta yang diam, ingin sapa dulu.
+> Herta sedang sibuk. Coba lain kali. <br/>
 > _Dengar: Kurukurukuru - kururing (MEME JP VOICE BASED)_
 > 
 > _Herta (Honkai: Star Rail)_
+
+===
+
+![OBB Reportase Siang Trans TV 2010](-img/REPORTASESIANG2010TRANSTV.png) "Reportase Siang Trans TV 2010"
+_CONTOH GAMBAR_
+Sumber: Dokumentasi Trans TV melalui [rcpch id @ Youtube](https://youtu.be/IfG6GSCvLNA?t=10)

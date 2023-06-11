@@ -1,7 +1,7 @@
 site_name: My Documentations, Our Documentations
 copyright: |
-  Documentation under Creative Commons version 4, otherwise noted. Indonesia version.
-  _Kurukurukuru - Kururing -- Herta (Honkai: Star Rail)_
+  Documentation under Creative Commons version 4, otherwise noted.<br/>Indonesia version.<br/>
+  <i>Kurukurukuru - Kururing -- Herta (Honkai: Star Rail)</i>
 
 extra_css:
   - "-nahida/-additional.css"
@@ -9,15 +9,15 @@ extra_css:
 extra:
   homepage: http://start.1423.my.id
   social:
-    - icon: fontawesome/solid/computer
-      name: Qiqi @ Super Dimension Fortress UNIX
-      link: http://qiqi.sdf.org
     - icon: fontawesome/brands/youtube
       name: Min777A - YouTube
       link: https://youtube.com/@Min777A
     - icon: fontawesome/brands/github
       name: Repositori
       link: http://github.com/Abyanu163/docs/tree/Nahida/docs
+    - icon: fontawesome/brands/github
+      name: Abyanu163 @ GitHub
+      link: http://github.com/Abyanu163
 
 theme: 
   name: material
