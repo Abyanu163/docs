@@ -9,17 +9,23 @@ extra_css:
 extra:
   homepage: http://start.1423.my.id
   social:
-    - icon: fontawesome/brands/youtube
-      name: Min777A - YouTube
-      link: https://youtube.com/@Min777A
     - icon: fontawesome/brands/github
       name: Repositori
       link: http://github.com/Abyanu163/docs/tree/Nahida/docs
     - icon: fontawesome/brands/github
       name: Abyanu163 @ GitHub
       link: http://github.com/Abyanu163
+  consent:
+    title: Kuki dalam ramban
+    cookies:
+      analytics: false
+    description: >-
+      3rd dan properti sengaja dimasukkan kuki ke dalam dokumen ini.
+      Jika terjadi masalah dengan kuki, hapus kuki dan muat ulang.
+      Bosan dengan kuki ramban cukup potong aja kuki biar paham ...
+      antara kuki dalam ramban dan biskuit kuki. (Bukan Kuki Shinobu).
 
-theme: 
+theme:
   name: material
   icon:
     logo: material/file-document-outline
@@ -27,9 +33,12 @@ theme:
   font: false # Recommended in Chinese block Google
   features:
     - navigation.tabs
-    - navigation.sections
-    - toc.integrate
+    - navigation.tabs.sticky
+    - navigation.indexes
     - navigation.top
+    - navigation.instant
+    - toc.integrate
+    - toc.follow
     - search.suggest
     - search.highlight
     - content.tabs.link
