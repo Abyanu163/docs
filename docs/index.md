@@ -31,8 +31,8 @@ komunikasi.
 > 
 > _Herta (Honkai: Star Rail)_
 
-===
+---
 
-![OBB Reportase Siang Trans TV 2010](-img/REPORTASESIANG2010TRANSTV.png) "Reportase Siang Trans TV 2010"
+![OBB Reportase Siang Trans TV 2010](-img/REPORTASESIANG2010TRANSTV.png)"Reportase Siang Trans TV 2010" <br/>
 _CONTOH GAMBAR_
 Sumber: Dokumentasi Trans TV melalui [rcpch id @ Youtube](https://youtu.be/IfG6GSCvLNA?t=10)

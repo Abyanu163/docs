@@ -1,4 +1,4 @@
-site_name: My Documentations, Our Documentations
+site_name: My and our \"DOCS\" (Indonesia)
 copyright: |
   Documentation under Creative Commons version 4, otherwise noted.<br/>Indonesia version.<br/>
   <i>Kurukurukuru - Kururing -- Herta (Honkai: Star Rail)</i>
@@ -16,14 +16,16 @@ extra:
       name: Abyanu163 @ GitHub
       link: http://github.com/Abyanu163
   consent:
-    title: Kuki dalam ramban
+    title: Kuki dalam ramban // <i>Cookies in browser</i>
     cookies:
       analytics: false
+      actions:
+        - accept
     description: >-
-      3rd dan properti sengaja dimasukkan kuki ke dalam dokumen ini.
-      Jika terjadi masalah dengan kuki, hapus kuki dan muat ulang.
-      Bosan dengan kuki ramban cukup potong aja kuki biar paham ...
-      antara kuki dalam ramban dan biskuit kuki. (Bukan Kuki Shinobu).
+      Ini deskripsi mengenai kuki. Jika tidak mau kuki, potong aja kuki ...
+      biar tau antara kuki ini dengan biskuit kuki. <br/>This description.
+      If dislike cookies, cut it so know cookie and cookie cakes.<br/><br/>
+      <i>bukan kuki dimaksudkan Kuki Shinobu. *** aja keliru.</i>
 
 theme:
   name: material
