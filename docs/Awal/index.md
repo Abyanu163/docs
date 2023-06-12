@@ -1,4 +1,7 @@
-# Awal
+---
+title: Awal
+---
+# Ini Awal
 Ini adalah contoh. Sebuah contoh yang hanya dikasih tau
 
 > Ingin kartu yang langka. Saking kartu kebanyakan didapat tidak langka.

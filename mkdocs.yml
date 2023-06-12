@@ -1,4 +1,4 @@
-site_name: My and our \"DOCS\" (Indonesia)
+site_name: My and our "DOCS" (Indonesia)
 copyright: |
   Documentation under Creative Commons version 4, otherwise noted.<br/>Indonesia version.<br/>
   <i>Kurukurukuru - Kururing -- Herta (Honkai: Star Rail)</i>
@@ -19,8 +19,11 @@ extra:
     title: Kuki dalam ramban // <i>Cookies in browser</i>
     cookies:
       analytics: false
-      actions:
-        - accept
+      custom: Ingat, ini bukan maksud Kuki Shinobu.
+      setnot: Remember, not about Kuki Shinobu.
+    actions:
+      - accept
+      - reject
     description: >-
       Ini deskripsi mengenai kuki. Jika tidak mau kuki, potong aja kuki ...
       biar tau antara kuki ini dengan biskuit kuki. <br/>This description.
