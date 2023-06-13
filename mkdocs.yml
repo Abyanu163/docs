@@ -94,6 +94,8 @@ markdown_extensions:
       alternate_style: true
   - toc
   - tables
+  
+plugins:
   - i18n:
       default_language: id
       languages:
