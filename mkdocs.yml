@@ -44,7 +44,7 @@ theme:
     - navigation.tabs.sticky
     - navigation.indexes
     - navigation.top
-    - navigation.instant
+#    - navigation.instant
     - navigation.indexes
     - navigation.sections
     - toc.follow
@@ -94,3 +94,12 @@ markdown_extensions:
       alternate_style: true
   - toc
   - tables
+  - i18n:
+      default_language: id
+      languages:
+        id:
+          name: Indonesia
+          build: true
+        en:
+          name: English
+          build: true
