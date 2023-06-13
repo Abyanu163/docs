@@ -8,6 +8,13 @@ extra_css:
 
 extra:
   homepage: http://start.1423.my.id
+  alternate:
+  - name: Bahasa Indonesia
+    link: /id/
+    lang: id
+  - name: English
+    link /en/
+    lang: en
   social:
     - icon: fontawesome/brands/github
       name: Repositori
@@ -38,7 +45,8 @@ theme:
     - navigation.indexes
     - navigation.top
     - navigation.instant
-    - toc.integrate
+    - navigation.indexes
+    - navigation.sections
     - toc.follow
     - search.suggest
     - search.highlight
