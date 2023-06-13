@@ -93,6 +93,3 @@ markdown_extensions:
   - toc
   - tables
 
-plugins:
-  - i18n:
-      default_language: id
