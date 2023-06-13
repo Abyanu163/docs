@@ -9,7 +9,7 @@ extra_css:
 extra:
   homepage: http://start.1423.my.id
   alternate:
-  - name: Bahasa Indonesia
+  - name: Indonesia
     link: /id/
     lang: id
   - name: English
@@ -93,3 +93,13 @@ markdown_extensions:
   - toc
   - tables
 
+plugins:
+  - i18n:
+      default_language: id
+      languages:
+        id:
+          name: Indonesia
+          build: true
+        en:
+          name: English
+          build: true
