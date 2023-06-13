@@ -1,4 +1,4 @@
-site_name: DOCS-ID \# 1423
+site_name: "DOCS-ID#1423"
 copyright: |
   Documentation under Creative Commons version 4, otherwise noted.<br/>Indonesia version.<br/>
   <i>Kurukurukuru - Kururing -- Herta (Honkai: Star Rail)</i>
@@ -10,7 +10,7 @@ extra:
   homepage: http://start.1423.my.id
   alternate:
   - name: Indonesia
-    link: /id/
+    link: /
     lang: id
   - name: English
     link: /en/
@@ -57,15 +57,15 @@ theme:
       toggle:
         icon: material/brightness-7
         name: Switch to dark mode
-      primary: teal
+      primary: blue
       accent: blue
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
       toggle:
         icon: material/brightness-4
         name: Switch to light mode
-      primary: cyan
-      accent: light blue
+      primary: light blue
+      accent: teal
 
 markdown_extensions:
   - pymdownx.highlight:
@@ -94,12 +94,13 @@ markdown_extensions:
   - tables
 
 plugins:
+  - search
   - i18n:
       default_language: id
       languages:
         id:
           name: Indonesia
-          build: true
+          build: false
         en:
           name: English
           build: true

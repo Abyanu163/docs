@@ -7,7 +7,8 @@ maupun dokumentasi. Memang berbagai macam ini.
     sibuk. Coba lain kali.<br/>_Dengar: Kurukurukuru - kururing (MEME JP 
     VOICE BASED)_
 
-Baiklah, mulai dengan klik/sentuh ini: [awal](Awal)
+Baiklah, mulai.
+> _(mari berbasmallah)_
 
 ---
 
