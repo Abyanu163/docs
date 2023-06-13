@@ -18,16 +18,15 @@ extra:
   consent:
     title: Kuki dalam ramban // <i>Cookies in browser</i>
     cookies:
-      analytics: false
       custom: Ingat, ini bukan maksud Kuki Shinobu.
       setnot: Remember, not about Kuki Shinobu.
     actions:
       - accept
       - reject
     description: >-
-      Ini deskripsi mengenai kuki. Jika tidak mau kuki, potong aja kuki ...
+      Ini deskripsi. Jika tidak mau kuki, potong aja kuki ...
       biar tau antara kuki ini dengan biskuit kuki. <br/>This description.
-      If dislike cookies, cut it so know cookie and cookie cakes.<br/><br/>
+      If dislike cookies, cut it so know cookie and cookie cakes.<hr/>
       <i>bukan kuki dimaksudkan Kuki Shinobu. *** aja keliru.</i>
 
 theme:
@@ -81,3 +80,12 @@ markdown_extensions:
   - pymdownx.emoji:
       emoji_index: !!python/name:materialx.emoji.twemoji
       emoji_generator: !!python/name:materialx.emoji.to_svg
+  - md_in_html
+  - pymdownx.critic
+  - pymdownx.caret
+  - pymdownx.keys
+  - pymdownx.tilde
+  - pymdownx.tabbed:
+      alternate_style: true
+  - toc
+  - tables

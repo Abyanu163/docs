@@ -18,12 +18,12 @@ Ini hanya teks biasanya
 
 Untuk teks kode seperti tag HTML pre dan code.<br/>
 &lt;pre&gt; --> \`pre\` (dengan petik dua)
-&lt;code&gt; Ini code &lt;code&gt;
+&lt;code&gt; Ini code &lt;/code&gt;
 --> Dengan \` sebanyak tiga kali di awal dan akhir kode
 
 Seperti ini misalnya: <br/>
 `fulan.fulan`
-```sh
+```sh title="fulan@fulan - Ini contoh, Kirara"
 [fulan@fulan ~]$ KIRARA="Kirara Genshin Impact"
 [fulan@fulan ~]$ echo $KIRARA
 Kirara Genshin Impact
@@ -32,4 +32,4 @@ Kirara Genshin Impact
 
 ---
 
-Yang sabar...
+Masih bingung...
