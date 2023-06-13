@@ -1,14 +1,12 @@
----
-title: Awal
----
-# Ini Awal
+# Awal
+(To be continued for English.)
 Ini adalah contoh. Sebuah contoh yang hanya dikasih tau
 
 > Ingin kartu yang langka. Saking kartu kebanyakan didapat tidak langka.
 >
 > _Cyno memberitau pada Kaveh setelah Kaveh menang dan membagikan hadiah_
 
-# README.MD yang .MD adalah berkas yang berekstensi Markdown
+## README.MD yang .MD adalah berkas yang berekstensi Markdown
 Teks kepala (_heading_) dan biasa dalam source code Markdown:
 ```markdown
 # Ini kepala (_heading_) 1
@@ -32,4 +30,4 @@ Kirara Genshin Impact
 
 ---
 
-Masih bingung...
+...
