@@ -13,7 +13,7 @@ extra:
     link: /id/
     lang: id
   - name: English
-    link /en/
+    link: /en/
     lang: en
   social:
     - icon: fontawesome/brands/github
