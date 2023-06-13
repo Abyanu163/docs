@@ -44,7 +44,6 @@ theme:
     - navigation.tabs.sticky
     - navigation.indexes
     - navigation.top
-    - navigation.indexes
     - navigation.sections
     - toc.follow
     - search.suggest
@@ -93,3 +92,7 @@ markdown_extensions:
       alternate_style: true
   - toc
   - tables
+
+plugins:
+  - i18n:
+      default_language: id

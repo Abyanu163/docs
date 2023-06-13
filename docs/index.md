@@ -8,3 +8,8 @@ maupun dokumentasi. Memang berbagai macam ini.
     VOICE BASED)_
 
 Baiklah, mulai dengan klik/sentuh ini: [awal](Awal)
+
+---
+
+![Reportase Siang](/-img/REPORTASESIANG2010TRANSTV.png "Reportase Siang")
+Contoh Gambar. Sumber: rdpc id @ Youtube
