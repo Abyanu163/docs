@@ -12,5 +12,5 @@ Alright, let's start.
 
 ---
 
-![Reportase Siang](/-img/REPORTASESIANG2010TRANSTV.png "Reportase Siang")
+![Reportase Siang](img/REPORTASESIANG2010TRANSTV.png "Reportase Siang")
 Contoh Gambar. Sumber: rdpc id @ Youtube

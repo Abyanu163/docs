@@ -1,13 +1,18 @@
 site_name: "DOCS-ID#1423"
 copyright: |
-  Documentation under Creative Commons version 4, otherwise noted.<br/>Indonesia version.<br/>
+  Documentation under Creative Commons version 4, otherwise noted.<br/>
   <i>Kurukurukuru - Kururing -- Herta (Honkai: Star Rail)</i>
+
+nav:
+  - Start/Mulai: /
+  - Begin/Awal: INTRO/
+  - End/Terakhir: END/
 
 extra_css:
   - "-nahida/-additional.css"
 
 extra:
-  homepage: http://start.1423.my.id
+  homepage: //root.1423.my.id
   alternate:
   - name: Indonesia
     link: /
@@ -22,16 +27,6 @@ extra:
     - icon: fontawesome/brands/github
       name: Abyanu163 @ GitHub
       link: http://github.com/Abyanu163
-  consent:
-    title: Kuki dalam ramban // <i>Cookies in browser</i>
-    cookies:
-      custom: Ingat, ini bukan maksud Kuki Shinobu.
-      setnot: Remember, not about Kuki Shinobu.
-    description: >-
-      Ini deskripsi. Jika tidak mau kuki, potong aja kuki ...
-      biar tau antara kuki ini dengan biskuit kuki. <br/>This description.
-      If dislike cookies, cut it so know cookie and cookie cakes.<hr/>
-      <i>bukan kuki dimaksudkan Kuki Shinobu. *** aja keliru.</i>
 
 theme:
   name: material
