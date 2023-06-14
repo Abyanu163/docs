@@ -5,11 +5,11 @@ copyright: |
 
 nav:
   - "/" : "//root.1423.my.id"
-  - "Start/Mulai": ... | index*.md
+  - "Start/Mulai": index*.md
   - "Begin/Awal": INTRO
   - "&lt;=====&gt;": CONTENTS
   - "End/Terakhir": END
-  - "Links/Pranala": ... | links.*.md
+  - "Links/Pranala": links.*.md
 
 extra_css:
   - "ASSETS/CSS/-additional.css"
@@ -61,7 +61,7 @@ theme:
       toggle:
         icon: material/brightness-4
         name: Switch to light mode
-      primary: light blue
+      primary: teal
       accent: teal
 
 markdown_extensions:
