@@ -1,27 +1,23 @@
 # Begin
-_(This is Indonesia version inserted. Well, Qiqi hope healty.)_
+This example. Ask example thus know.
 
-# Awal
-Ini adalah contoh. Sebuah contoh yang hanya dikasih tau
-
-> Ingin kartu yang langka. Saking kartu kebanyakan didapat tidak langka.
+> I will TGC card very rare. Many there card get it's not rare.
 >
-> _Cyno memberitau pada Kaveh setelah Kaveh menang dan membagikan hadiah_
+> _Cyno asked to Kaveh after Kaveh won and giving gift_
 
-## README.MD yang .MD adalah berkas yang berekstensi Markdown
-Teks kepala (_heading_) dan biasa dalam source code Markdown:
+## README.MD (.markdown) is Markdown file extension
+Heading and paragraph in markdown:
 ```markdown
 # Ini kepala (_heading_) 1
 ## Ini juga kepala 2
 Ini hanya teks biasanya
 ```
 
-Untuk teks kode seperti tag HTML pre dan code.<br/>
-&lt;pre&gt; --> \`pre\` (dengan petik dua)
-&lt;code&gt; Ini code &lt;/code&gt;
---> Dengan \` sebanyak tiga kali di awal dan akhir kode
+For code tag HTML in markdown,
+let &lt;pre&gt; code &lt;/pre&gt; --> \`pre\` code \`pre\`
+&lt;code&gt;&lt;code/&gt; --> \'\'\' code \'\'\'
 
-Seperti ini misalnya: <br/>
+Example: <br/>
 `fulan.fulan`
 ```sh title="fulan@fulan - Ini contoh, Kirara"
 [fulan@fulan ~]$ KIRARA="Kirara Genshin Impact"

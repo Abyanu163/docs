@@ -4,15 +4,17 @@ copyright: |
   <i>Kurukurukuru - Kururing -- Herta (Honkai: Star Rail)</i>
 
 nav:
+  - "/" : "//root.1423.my.id"
   - "Start/Mulai": "index.md"
-  - "Begin/Awal": "/INTRO/"
-  - "End/Terakhir": "/END/"
+  - "Begin/Awal": "INTRO"
+  - "&lt;=====&gt;": "CONTENTS"
+  - "End/Terakhir": "END"
+  - "Links/Pranala": "links.md"
 
 extra_css:
   - "-nahida/-additional.css"
 
 extra:
-  homepage: //root.1423.my.id
   alternate:
   - name: Indonesia
     link: /
