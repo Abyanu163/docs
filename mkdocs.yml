@@ -4,9 +4,9 @@ copyright: |
   <i>Kurukurukuru - Kururing -- Herta (Honkai: Star Rail)</i>
 
 nav:
-  - Start/Mulai: /
-  - Begin/Awal: INTRO/
-  - End/Terakhir: END/
+  - "Start/Mulai": "/"
+  - "Begin/Awal": "/INTRO/"
+  - "End/Terakhir": "/END/"
 
 extra_css:
   - "-nahida/-additional.css"
