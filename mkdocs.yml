@@ -5,11 +5,11 @@ copyright: |
 
 nav:
   - "/" : "//root.1423.my.id"
-  - "Start/Mulai": index*.md
+  - "Start/Mulai": ... | index*.md
   - "Begin/Awal": INTRO
   - "&lt;=====&gt;": CONTENTS
   - "End/Terakhir": END
-  - "Links/Pranala": links.*.md
+  - "Links/Pranala": ... | links.*.md
 
 extra_css:
   - "ASSETS/CSS/-additional.css"
@@ -92,6 +92,7 @@ markdown_extensions:
 
 plugins:
   - search
+  - awesome-pages
   - i18n:
       default_language: id
       languages:
