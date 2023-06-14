@@ -1,32 +1,28 @@
-# Awal
-Ini adalah contoh. Sebuah contoh yang hanya dikasih tau
-
-> Ingin kartu yang langka. Saking kartu kebanyakan didapat tidak langka.
->
-> _Cyno memberitau pada Kaveh setelah Kaveh menang dan membagikan hadiah_
-
-## README.MD yang .MD adalah berkas yang berekstensi Markdown
-Teks kepala (_heading_) dan biasa dalam source code Markdown:
-```markdown
-# Ini kepala (_heading_) 1
-## Ini juga kepala 2
-Ini hanya teks biasanya
-```
-
-Untuk teks kode seperti tag HTML pre dan code.<br/>
-&lt;pre&gt; --> \`pre\` (dengan petik dua)
-&lt;code&gt; Ini code &lt;/code&gt;
---> Dengan \` sebanyak tiga kali di awal dan akhir kode
-
-Seperti ini misalnya: <br/>
-`fulan.fulan`
-```sh title="fulan@fulan - Ini contoh, Kirara"
-[fulan@fulan ~]$ KIRARA="Kirara Genshin Impact"
-[fulan@fulan ~]$ echo $KIRARA
-Kirara Genshin Impact
-[fulan@fulan ~]$ ^D
-```
-
+---
+title: INTRO
 ---
 
-...
+[TOC]
+
+## Kehidupan nyata dan maya
+
+!!! danger "Baca ini dulu"
+	Ini dulu agar memahami ini.
+	
+Hidup nyata dan maya tidak bisa dengan terlihat saja, yang tidak
+terlihat pun sudah ada. Selama awal-awal yang kiranya ada tidaknya
+dengan penglihatan, tidak terlihat akan dianggap tidak ada.
+
+## Komputer mulai
+
+Dalam 1200-an hijriyah, konsep logika (biner), informasi dan mesin akan
+menyatu dalam suatu komputer. Pada generasi pertama, implemen manusia
+dalam komputer yang pertama kali adalah "pilihan". Seperti "pilihan
+hidup". Konsep ini dinamakan "logika informasi mesin", cukup atur.
+
+## Merajarela Windows 9x
+
+Siapa sangka Windows 9x adalah pertama kali sejarah OS di Indonesia
+kalangan umum? Distro Linux sudah masuk di Indonesia. Kedua OS - kernel
+- dianggap bersaing, padahal sama-sama OS. Ini semua karena warnet.
+Cuma awal-awal modal komputer dan internet DSL yang maksimal 12 Kbps.

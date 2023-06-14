@@ -12,5 +12,5 @@ Alright, let's start.
 
 ---
 
-![Reportase Siang](img/REPORTASESIANG2010TRANSTV.png "Reportase Siang")
-Contoh Gambar. Sumber: rdpc id @ Youtube
+![Reportase Siang](ASSETS/IMG/REPORTASESIANG2010TRANSTV.png "Reportase Siang")
+Contoh Gambar. Sumber: rdpch id @ Youtube

@@ -5,19 +5,19 @@ copyright: |
 
 nav:
   - "/" : "//root.1423.my.id"
-  - "Start/Mulai": "index.md"
-  - "Begin/Awal": "INTRO"
-  - "&lt;=====&gt;": "CONTENTS"
-  - "End/Terakhir": "END"
-  - "Links/Pranala": "links.md"
+  - "Start/Mulai": ... | index*.md
+  - "Begin/Awal": INTRO
+  - "&lt;=====&gt;": CONTENTS
+  - "End/Terakhir": END
+  - "Links/Pranala": ... | links.*.md
 
 extra_css:
-  - "-nahida/-additional.css"
+  - "ASSETS/CSS/-additional.css"
 
 extra:
   alternate:
   - name: Indonesia
-    link: /
+    link: /id/
     lang: id
   - name: English
     link: /en/
@@ -97,7 +97,7 @@ plugins:
       languages:
         id:
           name: Indonesia
-          build: false
+          build: true
         en:
           name: English
           build: true
