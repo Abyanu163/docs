@@ -1,3 +1,15 @@
+@font-face {
+    font-family: 'Bahnschrift';
+    src: url('../FONTS/bahnschrift.eot');
+    src: url('../FONTS/bahnschrift.eot?#iefix') format('embedded-opentype'),
+         url('../FONTS/bahnschrift.woff2') format('woff2'),
+         url('../FONTS/bahnschrift.woff') format('woff'),
+         url('../FONTS/bahnschrift.ttf') format('truetype'),
+         url('../FONTS/bahnschrift.svg#Bahnschrift') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
 :root {
     --md-text-font: Bahnschrift, "Noto Sans", Arial, Roboto, "Dejavu Sans", sans-serif;
     --md-code-font: "Lucida Console", "Cantarell Mono", "Dejavu Sans Mono", monospace; 
