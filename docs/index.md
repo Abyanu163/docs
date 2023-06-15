@@ -1,4 +1,8 @@
 # Dokumentasi ku dan kita
+
+![USAMIRENKO_OUTFIT_ALT](ASSETS/IMG/USAMIRENKO.JPG "Renko Usami")
+Sumber: [Safebooru][1]
+
 Ini tidak membahas suatu yang khusus. Tidak..., tidak membahas bantuan 
 maupun dokumentasi. Memang berbagai macam ini.
 
@@ -12,5 +16,4 @@ Baiklah, mulai.
 
 ---
 
-![Reportase Siang](ASSETS/IMG/REPORTASESIANG2010TRANSTV.png "Reportase Siang")
-Contoh Gambar. Sumber: rdpch id @ Youtube
+[1]: https://safebooru.org/index.php?page=post&s=view&id=2219608

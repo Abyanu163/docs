@@ -1,4 +1,8 @@
 # My and Our "DOCS"
+
+![USAMIRENKO_OUTFIT_ALT](ASSETS/IMG/USAMIRENKO.JPG "Renko Usami")
+Image from: [Safebooru][1]
+
 In this not speciality something. No..., no about help and
 documentations. Just miscellaneous.
 
@@ -12,5 +16,4 @@ Alright, let's start.
 
 ---
 
-![Reportase Siang](ASSETS/IMG/REPORTASESIANG2010TRANSTV.png "Reportase Siang")
-Contoh Gambar. Sumber: rdpch id @ Youtube
+[1]: https://safebooru.org/index.php?page=post&s=view&id=2219608
