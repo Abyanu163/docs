@@ -3,14 +3,6 @@ copyright: |
   Documentation under Creative Commons version 4, otherwise noted.<br/>
   <i>Kurukurukuru - Kururing -- Herta (Honkai: Star Rail)</i>
 
-nav:
-  - "/" : "//root.1423.my.id"
-  - "Start/Mulai": ... | index*.md
-  - "Begin/Awal": INTRO
-  - "&lt;=====&gt;": CONTENTS
-  - "End/Terakhir": END
-  - "Links/Pranala": ... | links.*.md
-
 extra_css:
   - "ASSETS/CSS/-additional.css"
 
