@@ -38,8 +38,7 @@ theme:
   font: false # Recommended in Chinese block Google
   features:
     - navigation.tabs
-    - navigation.tabs.sticky
-    - navigation.indexes
+    - navigation.tabs.sticky #    - navigation.indexes
     - navigation.top
     - navigation.sections
     - toc.follow

@@ -1,0 +1,7 @@
+nav:
+  - "/" : "//root.1423.my.id"
+  - "Start/Mulai": ... | index*.md
+  - "Begin/Awal": INTRO
+  - "&lt;=====&gt;": CONTENTS
+  - "End/Terakhir": END
+  - "Links/Pranala": ... | links*.md
