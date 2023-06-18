@@ -1,7 +1,11 @@
+<div align="center">
+
 # Dokumentasi ku dan kita
 
 ![USAMIRENKO_OUTFIT_ALT](ASSETS/IMG/USAMIRENKO.JPG "Renko Usami")
-Sumber: [Safebooru][1]
+<br/>Sumber: [Safebooru][1]
+
+</div>
 
 Ini tidak membahas suatu yang khusus. Tidak..., tidak membahas bantuan 
 maupun dokumentasi. Memang berbagai macam ini.

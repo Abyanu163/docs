@@ -1,7 +1,11 @@
+<div align="center">
+
 # My and Our "DOCS"
 
 ![USAMIRENKO_OUTFIT_ALT](ASSETS/IMG/USAMIRENKO.JPG "Renko Usami")
-Image from: [Safebooru][1]
+<br/>Image from: [Safebooru][1]
+
+</div>
 
 In this not speciality something. No..., no about help and
 documentations. Just miscellaneous.
