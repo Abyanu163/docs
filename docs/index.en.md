@@ -3,10 +3,10 @@ title: My and Our Documentations
 ---
 
 <div align="center">
-
-![USAMIRENKO_OUTFIT_ALT](ASSETS/IMG/USAMIRENKO.JPG "Renko Usami")
-<br/>Image from: [Safebooru][1]
-
+<a href="https://safebooru.org/index.php?page=post&s=view&id=2219608">
+<img src="ASSETS/IMG/USAMIRENKO.JPG" alt="Usami Renko" />
+</a><br/>
+Image from: Safebooru
 </div>
 
 In this not speciality something. No..., no about help and
@@ -21,5 +21,3 @@ Alright, let's start.
 > _(Let basmallah)_
 
 ---
-
-[1]: https://safebooru.org/index.php?page=post&s=view&id=2219608

@@ -3,10 +3,10 @@ title: Dokumentasi Ku dan Kita
 ---
 
 <div align="center">
-
-![USAMIRENKO_OUTFIT_ALT](ASSETS/IMG/USAMIRENKO.JPG "Renko Usami")
-<br/>Sumber: [Safebooru][1]
-
+<a href="https://safebooru.org/index.php?page=post&s=view&id=2219608">
+<img src="ASSETS/IMG/USAMIRENKO.JPG" alt="Usami Renko" />
+</a><br/>
+Sumber: Safebooru
 </div>
 
 Ini tidak membahas suatu yang khusus. Tidak..., tidak membahas bantuan 
@@ -21,5 +21,3 @@ Baiklah, mulai.
 > _(mari berbasmallah)_
 
 ---
-
-[1]: https://safebooru.org/index.php?page=post&s=view&id=2219608
