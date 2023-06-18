@@ -1,6 +1,8 @@
-<div align="center">
+---
+title: Dokumentasi Ku dan Kita
+---
 
-# Dokumentasi ku dan kita
+<div align="center">
 
 ![USAMIRENKO_OUTFIT_ALT](ASSETS/IMG/USAMIRENKO.JPG "Renko Usami")
 <br/>Sumber: [Safebooru][1]

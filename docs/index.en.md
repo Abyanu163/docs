@@ -1,6 +1,8 @@
-<div align="center">
+---
+title: My and Our Documentations
+---
 
-# My and Our "DOCS"
+<div align="center">
 
 ![USAMIRENKO_OUTFIT_ALT](ASSETS/IMG/USAMIRENKO.JPG "Renko Usami")
 <br/>Image from: [Safebooru][1]
